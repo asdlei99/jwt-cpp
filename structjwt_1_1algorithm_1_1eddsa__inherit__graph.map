@@ -1,0 +1,5 @@
+<map id="jwt::algorithm::eddsa" name="jwt::algorithm::eddsa">
+<area shape="rect" id="node1" title="Base class for EdDSA family of algorithms." alt="" coords="98,5,237,31"/>
+<area shape="rect" id="node2" href="$structjwt_1_1algorithm_1_1ed25519.html" title=" " alt="" coords="5,79,159,104"/>
+<area shape="rect" id="node3" href="$structjwt_1_1algorithm_1_1ed448.html" title=" " alt="" coords="183,79,322,104"/>
+</map>
